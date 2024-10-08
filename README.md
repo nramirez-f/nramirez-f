@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="auto" src="https://preview.redd.it/g38817mqb1361.png?auto=webp&s=61f191d6a42b645d77cbbc6ce5d6f08686b6e77a"  />
-</div>
-
-###
-
 <h1 align="left">👋 Welcome to my GitHub!</h1>
 
 ###
@@ -12,9 +6,11 @@
 
 ###
 
-<p align="left">I'm Nacho, Mathematician and Software Developer. <br><br>I love programming  and here you can find some of my codes..</p>
+<p align="left">I'm Nacho, Mathematician and Software Developer. 
+<br>
+I love programming  and here you can find some of my codes..</p>
 
-###
+<p>To know more about me visit my <a href="https://es.linkedin.com/in/jos%C3%A9-ignacio-ram%C3%ADrez-fuentes-937a38251" target="_blank">Linkedin</a> or my web site <a href="nramirez.es" target="_blank">nramirez.es</a> </p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nramirez-f&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
